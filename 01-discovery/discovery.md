@@ -42,4 +42,8 @@
 -I learned who the stakeholders are
 
 
+##Non-Functional
+-The system should support and be ac
+
+
 
