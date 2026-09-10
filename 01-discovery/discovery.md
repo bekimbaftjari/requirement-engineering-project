@@ -1,4 +1,4 @@
-# Week 1 — Initial Discovery
+## Week 1 — Initial Discovery
 
 ## 1. Facts
 - The system will be used by users.
