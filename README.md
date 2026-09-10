@@ -2,7 +2,7 @@
 project
 
 #STUDENT
-Erin Baftjari
+-Erin Baftjari
 (T00270078)
 
 #Module
