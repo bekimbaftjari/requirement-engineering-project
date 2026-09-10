@@ -40,3 +40,6 @@
 ## 9. Reflection
 -I learned how to find requirements
 -I learned who the stakeholders are
+
+
+
