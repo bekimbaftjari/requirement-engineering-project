@@ -1,44 +1,42 @@
-## Week 1 — Initial Discovery
+# Week 1 — Initial Discovery
 
 ## 1. Facts
-- The system will be used by users.
-- Users need to access the main features of the system.
+-Students attend college
+-Students have classes and assignments
 
 ## 2. Assumptions
-- Users  may have internet access.
-- Users can use a computer or phone.
+-Students have a college account.
+-Students have access to the internet
 
 ## 3. Unknowns
-- How many users will use the system?
-- What extra features will be needed?
-- 
+-What features students need.
+-How many students will use it
+
 ## 4. Stakeholders
-- Users
-- Customers
-- Developers
-- Investors
+-Students
+-Lecturers
+-College staf
+-Investors
 
 ## 5. Goals
-- Make the system easy to use.
-- Provide the required features.
-- Keep user information secure.
+-Make college information easy to find
+-Help students manage their college work
+
 
 ## 6. Scope
-- Design and develop the main system.
-- Create the required user features.
-- Testing of the system.
+-Student information
+-Timetables
+-College announcements
 
 ## 7. Candidate Requirements
-- Users can log in.
-- Users can view information.
-- Users can use the main features.
-- Admin can manage the system.
+-Students can log in
+-Students can view their timetable
+-Students can see announcements
 
 ## 8. Requirement Surgery
-- Remove unnecessary features.
-- Make requirements clear and specific.
-- Combine similar requirements.
+-Remove features that are not needed
+-Make requirements easier to understand
 
 ## 9. Reflection
-- I learned how to identify stakeholders and requirements.
-- I need more information before finalising the requirements.
+-I learned how to find requirements
+-I learned who the stakeholders are
