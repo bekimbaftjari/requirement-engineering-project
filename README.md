@@ -1,14 +1,16 @@
 # requirement-engineering-project
-project
 
-#STUDENT
--Erin Baftjari
-(T00270078)
+Project
 
-#Module
-Requirement Engineering
+# STUDENT
 
-#Project Status
+* Erin Baftjari
+* T00270078
 
+# Module
 
+Requirements Engineering
 
+# Project Status
+
+Week 1 — Initial Discovery
