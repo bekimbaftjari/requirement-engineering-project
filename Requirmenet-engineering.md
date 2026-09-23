@@ -47,14 +47,6 @@ Who can change bookings and when reminders are sent.
 
 ## 4. Functional Requirements
 
-| Stakeholder     | What they might need         |
-| --------------- | ---------------------------- |
-| Students        | Easy way to book equipment   |
-| Staff           | Easier way to check bookings |
-| Equipment staff | Know where equipment is      |
-| Lecturers       | Equipment for classes        |
-| College         | Equipment to be looked after |
-
 | ID     |Requirement                                                          | Source     | How could we verify it?            |
 |--------|---------------------------------------------------------------------|------------|------------------------------------|
 | FR-01: |The system a user to view equipment availability for a selected date.| Technician | See if the equipment is available. |
@@ -63,16 +55,11 @@ Who can change bookings and when reminders are sent.
 
 ## 5. Quality Requirements
 
-### NFR-01
+## 5. Quality Requirements
 
-**Quality requirement**
-Only authorised users can see booking information.
-
-**Why does it matter?**
-To keep the information private.
-
-**How could it be checked?**
-Try to access it without logging in.
+| ID     |Quality requirement                            | Why does it matter?     | How could it be checked?                 |
+|--------|-----------------------------------------------|-------------------------|------------------------------------------|
+| NFR-01 | Only people with an account can see bookings. | Keeps bookings private. | Try to view bookings without an account. |
 
 ## 6. Project Application
 
