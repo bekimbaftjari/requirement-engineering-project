@@ -47,11 +47,19 @@ Who can change bookings and when reminders are sent.
 
 ## 4. Functional Requirements
 
-| Requirement                                                                 | Source     | How could we verify it?            |
-|--------|--------------------------------------------------------------------|------------|------------------------------------|
-| FR-01: The system a user to view equipment availability for a selected date.| Technician | See if the equipment is available. |
-| FR-02: The system shall allow an authorised user to book equipment.         | User       | Try to book equipment.             | 
-| FR-03: The system shall allow an authorised user to see their bookings.     | User       | Check if their bookings are there. |
+| Stakeholder     | What they might need         |
+| --------------- | ---------------------------- |
+| Students        | Easy way to book equipment   |
+| Staff           | Easier way to check bookings |
+| Equipment staff | Know where equipment is      |
+| Lecturers       | Equipment for classes        |
+| College         | Equipment to be looked after |
+
+| ID     |Requirement                                                          | Source     | How could we verify it?            |
+|--------|---------------------------------------------------------------------|------------|------------------------------------|
+| FR-01: |The system a user to view equipment availability for a selected date.| Technician | See if the equipment is available. |
+| FR-02: |The system shall allow an authorised user to book equipment.         | User       | Try to book equipment.             | 
+| FR-03: |The system shall allow an authorised user to see their bookings.     | User       | Check if their bookings are there. |
 
 ## 5. Quality Requirements
 
