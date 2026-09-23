@@ -4,7 +4,7 @@
 ## 1. Information from Week 2
 We found the stakeholders, what they need, things we don't know and questions we need to ask.
 
-## 2. Candidate Requirements
+# 2. Candidate Requirements
 # A - Problem / observation
 # B - Stakeholder need / concern
 # C - Candidate requirement
