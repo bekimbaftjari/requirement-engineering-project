@@ -13,4 +13,4 @@ Requirements Engineering
 
 # Project Status
 
-Week 1 — Initial Discovery
+Week 1 — Initial Discovery-
