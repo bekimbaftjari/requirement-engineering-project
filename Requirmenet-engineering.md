@@ -1,8 +1,8 @@
-Week 3 — Requirements Analysis and Specification
+#Week 3 — Requirements Analysis and Specification
 1. Information from Week 2
 We looked at the stakeholders, what they need, what we don’t know and what questions we need to ask.
 
-2. Candidate Requirements
+2. ##Candidate Requirements
 A - Problem / observation
 B - Stakeholder need / concern
 C - Candidate requirement
@@ -11,34 +11,34 @@ E - Assumption
 F - Stakeholder need / concern
 
 3. Requirements Surgery
-Requirement 1
+##Requirement 1
 What is the problem?
 User-friendly can mean different things.
 
-One clarification question:
+##One clarification question:
 What would make it easy to use?
 
-What information is missing?
+##What information is missing?
 What the users actually need from it.
 
-Requirement 2
+##Requirement 2
 What is the problem?
 We don’t know who gets the notifications or when.
 
-One clarification question:
+##One clarification question:
 Who should get the notification?
 
-What information is missing?
+##What information is missing?
 Who gets them and when they are sent.
 
-Requirement 3
+##Requirement 3
 What is the problem?
 We don’t know who can change bookings or when reminders happen.
 
-One clarification question:
+##One clarification question:
 When should the reminder be sent?
 
-What information is missing?
+##What information is missing?
 Who can change bookings and when reminders are sent.
 
 4. Functional Requirements
@@ -108,10 +108,5 @@ What information students need.
 
 3. Who could provide that information?
 Students or college staff.
-
-
-
-
-
 
 
