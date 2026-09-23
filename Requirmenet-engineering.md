@@ -3,12 +3,12 @@
 We looked at the stakeholders, what they need, what we don’t know and what questions we need to ask.
 
 2. ##Candidate Requirements
-A - Problem / observation
-B - Stakeholder need / concern
-C - Candidate requirement
-D - Solution idea
-E - Assumption
-F - Stakeholder need / concern
+. Problem / observation
+. Stakeholder need / concern
+. Candidate requirement
+. Solution idea
+. Assumption
+. Stakeholder need / concern
 
 3. Requirements Surgery
 ##Requirement 1
