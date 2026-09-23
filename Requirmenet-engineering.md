@@ -1,157 +1,102 @@
-# Week 1 — Initial Discovery
 
-# 1. Facts
-.The college has shared equipment.
-. Bookings are done by email, spreadsheets and other arrangements.
-. Equipment can be double booked.
-. People are sometimes not sure if equipment is available.
-. Staff spend time checking bookings.
-. Equipment is sometimes not returned on time.
+# Week 3 — Requirements Analysis and Specification
 
-# 2. Assumptions
+## 1. Information from Week 2
+We found the stakeholders, what they need, things we don't know and questions we need to ask.
 
-. Students and staff will need to book equipment.
-. Equipment needs to be returned after use.
-. Some equipment will be used more than others.
-. There are rules for borrowing equipment.
+## 2. Candidate Requirements
+A - Problem / observation
+B - Stakeholder need / concern
+C - Candidate requirement
+D - Solution idea
+E - Assumption
+F - Stakeholder need / concern
 
-# 3. Unknowns
+## 3. Requirements Surgery
+### Requirement 1
+**What is the problem?**
+User-friendly is too vague.
 
-. Who can book equipment?
-. How long can equipment be booked for?
-. Who checks the bookings?
-. What happens if equipment is returned late?
+**One clarification question**
+What would make it easy to use?
 
-# 4. Stakeholders
+**What information is missing?**
+What the users need it to do.
 
-| Stakeholder     | What they might need         |
-| --------------- | ---------------------------- |
-| Students        | Easy way to book equipment   |
-| Staff           | Easier way to check bookings |
-| Equipment staff | Know where equipment is      |
-| Lecturers       | Equipment for classes        |
-| College         | Equipment to be looked after |
+### Requirement 2
 
-Possible conflict*
-Students might want to keep equipment longer, while staff might need it back for someone else.
+**What is the problem?**
+We don't know who gets the notifications or when.
 
-# 5. Goals
+**One clarification question**
+Who should get the notification?
 
-The system should help the college to:
-. Stop equipment being double booked.
-. Make it easier to see what equipment is available.
-. Make checking bookings easier for staff.
+**What information is missing?**
+Who gets it and when it is sent.
 
-#6. Scope
-# In scope
-. Checking if equipment is available.
-. Booking equipment.
-. Recording when equipment is returned.
+### Requirement 3
 
-# Out of scope / not known yet
+**What is the problem?**
+We don't know who can change bookings or when reminders are sent.
 
-. Making a mobile app.
-. Making a website.
-. Deciding what technology to use.
+**One clarification question**
+When should the reminder be sent?
 
-# 7. Candidate Requirements
-# Functional Requirements
+**What information is missing?**
+Who can change bookings and when reminders are sent.
 
-. The system shall show if equipment is available.
-. The system shall let users book equipment.
-. The system shall save bookings.
-. The system shall record when equipment is returned.
+## 4. Functional Requirements
 
-# Non-Functional Requirements
-. The system shall keep booking information safe.
-. The system shall be easy to use.
+| Requirement | Source | How could we verify it? |
+|---|---|---|
+| FR-01: The system shall allow an authorised user to view equipment
+  availability for a selected date. | Technician | See if the equipment is available. |
+| FR-02: The system shall allow an authorised user to book equipment. | User | Try to book equipment. |
+| FR-03: The system shall allow an authorised user to see their bookings. | User | Check if their bookings are there. |
 
-# 8. Requirement Surgery
+## 5. Quality Requirements
 
-# R1: The system should be easy to use.
-Why is it weak?
-It does not explain what "easy" means.
+### NFR-01
 
-**Improved:**
-The system shall let users make a booking using simple steps.
-
-### R2: The system should be secure.
-
-**Why is it weak?**
-It does not explain what needs to be protected.
-
-**Improved:**
-The system shall only let authorised users manage bookings.
-
-## 9. Reflection
-I learned that we should understand the problem before deciding on a solution. I also learned the difference between facts, assumptions and unknowns.re sent.
-
-4. Functional Requirements
-Requirement
-
-Source
-
-How could we verify it?
-
-FR-01: The system shall allow an authorised user to view equipment availability for a selected date.
-
-Technician
-
-See if the equipment shows as available.
-
-FR-02: The system shall allow an authorised user to book equipment.
-
-User
-
-Try to book equipment.
-
-FR-03: The system shall allow an authorised user to see their bookings.
-
-User
-
-Check if their bookings are there.
-
-5. Quality Requirements
-NFR-01
-Quality requirement:
+**Quality requirement**
 Only authorised users can see booking information.
 
-Why does it matter?
+**Why does it matter?**
 To keep the information private.
 
-How could it be checked?
+**How could it be checked?**
 Try to access it without logging in.
 
-6. Project Application
-Candidate requirement:
+## 6. Project Application
+
+**Candidate requirement**
 The system shall allow students to view their information.
 
-Source:
+**Source**
 Student
 
-Type:
+**Type**
 Functional requirement
 
-Clarification question:
+**Clarification question**
 What information do students need to see?
 
-Verification:
+**Verification**
 Check if the information can be viewed.
 
-Unknown:
+**Unknown**
 What information students need.
 
-Who could provide the information?
+**Who could provide the information?**
 Students or college staff.
 
-7. Reflection
-1. What makes a requirement difficult to understand?
-If it is too vague or missing information.
+## 7. Reflection
 
-2. What information do you still need for your project?
+### 1. What makes a requirement difficult to understand?
+If it is vague or missing information.
+
+### 2. What information do you still need for your project?
 What information students need.
 
-3. Who could provide that information?
+### 3. Who could provide that information?
 Students or college staff.
-
-
